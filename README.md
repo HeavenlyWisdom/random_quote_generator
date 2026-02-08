@@ -1,16 +1,25 @@
-# random_quote_generator
+# Quotinator – Random Quote Generator
 
-A new Flutter project.
+Quotinator is a simple Flutter application that generates random motivational quotes with a clean and minimal user interface.
 
-## Getting Started
+## Features
+- Random quote generation
+- Generate / Regenerate functionality
+- Clean dark-themed UI
+- Custom font (Quicksand)
+- Offline support (no internet required)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(Add screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
+1. Clone the repository
+2. Run `flutter pub get`
+3. Run `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Abhijeet Gupta

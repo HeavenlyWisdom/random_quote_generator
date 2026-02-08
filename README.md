@@ -13,9 +13,6 @@ Quotinator is a simple Flutter application that generates random motivational qu
 - Flutter
 - Dart
 
-## Screenshots
-(Add screenshots here)
-
 ## How to Run
 1. Clone the repository
 2. Run `flutter pub get`

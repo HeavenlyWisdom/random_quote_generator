@@ -1,4 +1,4 @@
-# Quotinator – Random Quote Generator
+# Quotinator – A Random Quote Generator
 
 Quotinator is a simple Flutter application that generates random motivational quotes with a clean and minimal user interface.
 
